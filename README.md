@@ -156,8 +156,8 @@ Examples:
 
 The default medium is the Ham's F-12-derived Figure 2 benchmark medium mapped to
 Human1/Human-GEM exchange reactions. It includes mapped Ham's F-12 components,
-core exchange reactions (`H2O`, `O2`, `H+`), minimal lipid/vitamin feasibility
-add-backs, and `GSH`. Replace `data/media/cell_media.csv` or set `use_media:
+core exchange reactions (`H2O`, `O2`, `H+`), minimal feasibility
+add-backs. Replace `data/media/cell_media.csv` or set `use_media:
 false` to test a different medium definition.
 
 ## Notes
