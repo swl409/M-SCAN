@@ -1,0 +1,43 @@
+# M-SCAN demo configuration.
+# This is intentionally a simple key: value file so it can be read without PyYAML.
+
+rna_mode: ccle
+rna: data/demo/ccle_rna_depmap_3samples.csv
+sample_column: cell_line_display_name
+rna_layout: sample_rows
+mutation_table: data/demo/ccle_mutation_with_prediction_final_3samples.csv
+protein_coding_genes: data/annotation/protein_coding_genes_ensembl.txt
+human_gem_xlsx: data/model/Human-GEM.xlsx
+human_gem_mat: data/model/Human-GEM.mat
+kcat: data/kcat/kcat_predictions.csv
+media: data/media/cell_media.csv
+
+output_dir: outputs
+rna_preprocessed: outputs/tutorial_rna_preprocessed.csv
+rna_for_vmax: outputs/tutorial_rna_for_vmax.csv
+applied_mutations: outputs/tutorial_applied_mutations.csv
+vmax: outputs/tutorial_vmax.csv
+pfba: outputs/tutorial_pfba_results.csv
+
+use_mutation: true
+mutation_factor: 0.05
+severe_factor: 0.05
+lof_factor: 0.05
+include_lof: true
+
+use_kcat: true
+fallback_kcat: 1.0
+use_media: true
+solver: gurobi
+max_samples: 3
+
+# Used only for the bundled three-sample Figure 2 smoke test.
+check_reference: true
+reference_vmax: data/demo/figure2_vmax_3samples.csv
+reference_pfba: data/reference/figure2_pfba_3samples.csv
+reference_reactions: data/reference/figure2_measured_exchange_reactions.csv
+
+# Used only when rna_mode: gene_matrix.
+input_scale: log2
+target_sum: 1000000
+replace_zero_min: true

@@ -1,0 +1,57 @@
+HMR,metabolite,component,mapping_confidence
+MAR09067,glycine,Glycine,high
+MAR09061,alanine,L-Alanine,high
+MAR09066,arginine,L-Arginine hydrochloride,high
+MAR09150,chloride,L-Arginine hydrochloride,ion_from_salt
+MAR09062,asparagine,L-Asparagine-H2O,high
+MAR09070,aspartate,L-Aspartic acid,high
+MAR09065,cysteine,L-Cysteine hydrochloride-H2O,high
+MAR09071,glutamate,L-Glutamic Acid,high
+MAR09063,glutamine,L-Glutamine,high
+MAR09038,histidine,L-Histidine hydrochloride-H2O,high
+MAR09039,isoleucine,L-Isoleucine,high
+MAR09040,leucine,L-Leucine,high
+MAR09041,lysine,L-Lysine hydrochloride,high
+MAR09042,methionine,L-Methionine,high
+MAR09043,phenylalanine,L-Phenylalanine,high
+MAR09068,proline,L-Proline,high
+MAR09069,serine,L-Serine,high
+MAR09044,threonine,L-Threonine,high
+MAR09045,tryptophan,L-Tryptophan,high
+MAR09064,tyrosine,L-Tyrosine disodium salt dihydrate,high
+MAR09077,Na+,L-Tyrosine disodium salt dihydrate,ion_from_salt
+MAR09046,valine,L-Valine,high
+MAR09109,biotin,Biotin,high
+MAR09083,choline,Choline chloride,high
+MAR09145,pantothenate,D-Calcium pantothenate,high
+MAR09082,Ca2+,D-Calcium pantothenate,ion_from_salt
+MAR09146,folate,Folic Acid,high
+MAR09378,niacinamide,Niacinamide,high
+MAR09144,pyridoxine,Pyridoxine hydrochloride,high
+MAR09143,riboflavin,Riboflavin,high
+MAR09159,thiamin,Thiamine hydrochloride,high
+MAR09269,aquacob(III)alamin,Vitamin B12,high
+MAR09361,inositol,i-Inositol,high
+MAR13073,Cu2+,Cupric sulfate (CuSO4-5H2O),ion_from_salt
+MAR09074,sulfate,Cupric sulfate (CuSO4-5H2O),ion_from_salt
+MAR09096,Fe3+,Ferric sulfate (FeSO4-7H2O),ion_from_salt
+MAR13072,Mg2+,Magnesium Chloride (anhydrous),ion_from_salt
+MAR09081,K+,Potassium Chloride (KCl),ion_from_salt
+MAR09078,HCO3-,Sodium Bicarbonate (NaHCO3),ion_from_salt
+MAR09072,Pi,Sodium Phosphate dibasic (Na2HPO4) anhydrous,ion_from_salt
+MAR09080,zinc,Zinc sulfate (ZnSO4-7H2O),ion_from_salt
+MAR09034,glucose,D-Glucose (Dextrose),high
+MAR09358,hypoxanthine,Hypoxanthine Na,high
+MAR09035,linoleate,Linoleic Acid,high
+MAR09167,lipoic acid,Lipoic Acid,high
+MAR11426,putrescine,Putrescine 2HCl,high
+MAR09133,pyruvate,Sodium Pyruvate,high
+MAR09423,thymidine,Thymidine,high
+MAR09047,H2O,core_exchange_added,core
+MAR09048,O2,core_exchange_added,core
+MAR09079,H+,core_exchange_added,core
+MAR09036,linolenate,minimal_serum_lipid_addback,minimal_feasibility_addback
+MAR09151,alpha-tocopherol,minimal_serum_lipid_addback,minimal_feasibility_addback
+MAR09153,gamma-tocopherol,minimal_serum_lipid_addback,minimal_feasibility_addback
+MAR09404,retinoate,minimal_serum_lipid_addback,minimal_feasibility_addback
+MAR09351,GSH,benchmark_addback,sensitivity_addback

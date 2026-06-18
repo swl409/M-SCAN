@@ -1,0 +1,14 @@
+name: M-SCAN
+channels:
+  - gurobi
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pandas
+  - numpy
+  - scipy
+  - openpyxl
+  - cobra
+  - gurobi=13.0.2
+  - swiglpk
