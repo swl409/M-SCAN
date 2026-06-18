@@ -168,6 +168,23 @@ it to `0` to process all sample columns in the Vmax table.
 
 ## License
 
-The tutorial code is released under the MIT License. Included example data and
-third-party model/resource files remain subject to their original provider
-licenses and terms of use.
+The tutorial code in this repository is released under the MIT License.
+
+Included example data and third-party model/resource files remain subject to
+their original provider licenses and terms of use.
+
+This repository includes copies of the following Human-GEM v1.19.0 model files:
+
+- `Human-GEM.xlsx`
+- `Human-GEM.mat`
+
+These files are from SysBioChalmers/Human-GEM v1.19.0 and are licensed under
+the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Source:
+https://github.com/SysBioChalmers/Human-GEM/tree/v1.19.0
+
+License:
+https://creativecommons.org/licenses/by/4.0/
+
+No modifications were made to these Human-GEM files.
