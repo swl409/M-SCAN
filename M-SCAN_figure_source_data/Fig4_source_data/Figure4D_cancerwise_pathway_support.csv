@@ -1,0 +1,141 @@
+subsystem,cancer_group,combined_top20_support
+Glycolysis / Gluconeogenesis,PAAD,200.0
+Fatty acid biosynthesis (even-chain),PAAD,170.0
+"Valine, leucine, and isoleucine metabolism",PAAD,0.0
+Glutathione metabolism,PAAD,0.0
+Pentose phosphate pathway,PAAD,127.0
+Carnitine shuttle (cytosolic),PAAD,126.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,PAAD,113.0
+Oxidative phosphorylation,PAAD,112.0
+Fatty acid elongation (even-chain),PAAD,106.0
+Pentose and glucuronate interconversions,PAAD,106.0
+Glycolysis / Gluconeogenesis,LUSC,200.0
+Fatty acid biosynthesis (even-chain),LUSC,170.0
+"Valine, leucine, and isoleucine metabolism",LUSC,0.0
+Glutathione metabolism,LUSC,0.0
+Pentose phosphate pathway,LUSC,127.0
+Carnitine shuttle (cytosolic),LUSC,126.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,LUSC,113.0
+Oxidative phosphorylation,LUSC,0.0
+Fatty acid elongation (even-chain),LUSC,106.0
+Pentose and glucuronate interconversions,LUSC,106.0
+Glycolysis / Gluconeogenesis,TGCT,200.0
+Fatty acid biosynthesis (even-chain),TGCT,170.0
+"Valine, leucine, and isoleucine metabolism",TGCT,0.0
+Glutathione metabolism,TGCT,0.0
+Pentose phosphate pathway,TGCT,127.0
+Carnitine shuttle (cytosolic),TGCT,126.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,TGCT,113.0
+Oxidative phosphorylation,TGCT,0.0
+Fatty acid elongation (even-chain),TGCT,106.0
+Pentose and glucuronate interconversions,TGCT,106.0
+Glycolysis / Gluconeogenesis,LUAD,200.0
+Fatty acid biosynthesis (even-chain),LUAD,170.0
+"Valine, leucine, and isoleucine metabolism",LUAD,0.0
+Glutathione metabolism,LUAD,0.0
+Pentose phosphate pathway,LUAD,127.0
+Carnitine shuttle (cytosolic),LUAD,126.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,LUAD,113.0
+Oxidative phosphorylation,LUAD,112.0
+Fatty acid elongation (even-chain),LUAD,106.0
+Pentose and glucuronate interconversions,LUAD,106.0
+Glycolysis / Gluconeogenesis,OV,200.0
+Fatty acid biosynthesis (even-chain),OV,170.0
+"Valine, leucine, and isoleucine metabolism",OV,0.0
+Glutathione metabolism,OV,138.0
+Pentose phosphate pathway,OV,127.0
+Carnitine shuttle (cytosolic),OV,126.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,OV,113.0
+Oxidative phosphorylation,OV,112.0
+Fatty acid elongation (even-chain),OV,106.0
+Pentose and glucuronate interconversions,OV,106.0
+Glycolysis / Gluconeogenesis,BLCA,200.0
+Fatty acid biosynthesis (even-chain),BLCA,170.0
+"Valine, leucine, and isoleucine metabolism",BLCA,0.0
+Glutathione metabolism,BLCA,0.0
+Pentose phosphate pathway,BLCA,127.0
+Carnitine shuttle (cytosolic),BLCA,126.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,BLCA,113.0
+Oxidative phosphorylation,BLCA,112.0
+Fatty acid elongation (even-chain),BLCA,106.0
+Pentose and glucuronate interconversions,BLCA,106.0
+Glycolysis / Gluconeogenesis,STAD,200.0
+Fatty acid biosynthesis (even-chain),STAD,170.0
+"Valine, leucine, and isoleucine metabolism",STAD,0.0
+Glutathione metabolism,STAD,0.0
+Pentose phosphate pathway,STAD,127.0
+Carnitine shuttle (cytosolic),STAD,0.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,STAD,113.0
+Oxidative phosphorylation,STAD,112.0
+Fatty acid elongation (even-chain),STAD,106.0
+Pentose and glucuronate interconversions,STAD,106.0
+Glycolysis / Gluconeogenesis,COAD,200.0
+Fatty acid biosynthesis (even-chain),COAD,170.0
+"Valine, leucine, and isoleucine metabolism",COAD,0.0
+Glutathione metabolism,COAD,0.0
+Pentose phosphate pathway,COAD,127.0
+Carnitine shuttle (cytosolic),COAD,0.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,COAD,113.0
+Oxidative phosphorylation,COAD,0.0
+Fatty acid elongation (even-chain),COAD,106.0
+Pentose and glucuronate interconversions,COAD,106.0
+Glycolysis / Gluconeogenesis,LIHC,200.0
+Fatty acid biosynthesis (even-chain),LIHC,170.0
+"Valine, leucine, and isoleucine metabolism",LIHC,0.0
+Glutathione metabolism,LIHC,0.0
+Pentose phosphate pathway,LIHC,127.0
+Carnitine shuttle (cytosolic),LIHC,126.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,LIHC,113.0
+Oxidative phosphorylation,LIHC,112.0
+Fatty acid elongation (even-chain),LIHC,106.0
+Pentose and glucuronate interconversions,LIHC,0.0
+Glycolysis / Gluconeogenesis,ACC,200.0
+Fatty acid biosynthesis (even-chain),ACC,0.0
+"Valine, leucine, and isoleucine metabolism",ACC,0.0
+Glutathione metabolism,ACC,0.0
+Pentose phosphate pathway,ACC,127.0
+Carnitine shuttle (cytosolic),ACC,0.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,ACC,0.0
+Oxidative phosphorylation,ACC,112.0
+Fatty acid elongation (even-chain),ACC,0.0
+Pentose and glucuronate interconversions,ACC,0.0
+Glycolysis / Gluconeogenesis,PRAD,200.0
+Fatty acid biosynthesis (even-chain),PRAD,0.0
+"Valine, leucine, and isoleucine metabolism",PRAD,0.0
+Glutathione metabolism,PRAD,0.0
+Pentose phosphate pathway,PRAD,0.0
+Carnitine shuttle (cytosolic),PRAD,0.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,PRAD,113.0
+Oxidative phosphorylation,PRAD,0.0
+Fatty acid elongation (even-chain),PRAD,0.0
+Pentose and glucuronate interconversions,PRAD,106.0
+Glycolysis / Gluconeogenesis,KIRC,200.0
+Fatty acid biosynthesis (even-chain),KIRC,170.0
+"Valine, leucine, and isoleucine metabolism",KIRC,164.0
+Glutathione metabolism,KIRC,0.0
+Pentose phosphate pathway,KIRC,127.0
+Carnitine shuttle (cytosolic),KIRC,126.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,KIRC,0.0
+Oxidative phosphorylation,KIRC,112.0
+Fatty acid elongation (even-chain),KIRC,106.0
+Pentose and glucuronate interconversions,KIRC,0.0
+Glycolysis / Gluconeogenesis,KIRP,200.0
+Fatty acid biosynthesis (even-chain),KIRP,0.0
+"Valine, leucine, and isoleucine metabolism",KIRP,164.0
+Glutathione metabolism,KIRP,0.0
+Pentose phosphate pathway,KIRP,0.0
+Carnitine shuttle (cytosolic),KIRP,0.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,KIRP,0.0
+Oxidative phosphorylation,KIRP,0.0
+Fatty acid elongation (even-chain),KIRP,0.0
+Pentose and glucuronate interconversions,KIRP,0.0
+Glycolysis / Gluconeogenesis,THCA,200.0
+Fatty acid biosynthesis (even-chain),THCA,0.0
+"Valine, leucine, and isoleucine metabolism",THCA,164.0
+Glutathione metabolism,THCA,0.0
+Pentose phosphate pathway,THCA,127.0
+Carnitine shuttle (cytosolic),THCA,0.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,THCA,113.0
+Oxidative phosphorylation,THCA,0.0
+Fatty acid elongation (even-chain),THCA,0.0
+Pentose and glucuronate interconversions,THCA,0.0
