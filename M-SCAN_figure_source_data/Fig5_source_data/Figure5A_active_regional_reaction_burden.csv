@@ -1,0 +1,15 @@
+cancer_group,active_regional_reactions,group
+LUSC,26,high_regional
+LUAD,25,high_regional
+OV,25,high_regional
+PAAD,23,high_regional
+TGCT,22,high_regional
+STAD,21,high_regional
+BLCA,19,high_regional
+COAD,17,high_regional
+LIHC,12,low_regional
+ACC,7,low_regional
+KIRC,7,low_regional
+KIRP,5,low_regional
+PRAD,5,low_regional
+THCA,5,low_regional

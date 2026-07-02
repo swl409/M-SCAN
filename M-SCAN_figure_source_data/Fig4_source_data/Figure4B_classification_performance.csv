@@ -1,0 +1,17 @@
+model,metric,value
+"Raw flux-only
+XGBoost",AUROC,0.9858512611546832
+"Raw flux-only
+XGBoost",Balanced accuracy,0.9415118520790432
+"Raw flux-only
+GNN",AUROC,0.9687559333420966
+"Raw flux-only
+GNN",Balanced accuracy,0.9092472505805548
+"Delta-flux XGBoost
+Full TCGA+GTEx",AUROC,0.979300851480232
+"Delta-flux XGBoost
+Full TCGA+GTEx",Balanced accuracy,0.9269578203274474
+"Delta-flux XGBoost
+TCGA-only",AUROC,0.9818105864127692
+"Delta-flux XGBoost
+TCGA-only",Balanced accuracy,0.9062331378043896

@@ -1,0 +1,10 @@
+class_label,source_model,n_reactions
+Cancer-specific,Both,2
+Cancer-specific,GNN,24
+Cancer-specific,XGBoost,20
+Global core,Both,3
+Global core,GNN,9
+Global core,XGBoost,6
+Regional shared reactions,Both,1
+Regional shared reactions,GNN,11
+Regional shared reactions,XGBoost,18
