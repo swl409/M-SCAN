@@ -128,7 +128,7 @@ reaction_id,gene_id,predicted_kcat_s_inv
 MAR00001,ENSG000001...,12.5
 ```
 
-If `use_kcat: false`, reaction capacities are built from RNA-derived gene
+If `use_kcat: false`, reaction capacities are built from RNA gene
 activity only.
 
 ## Medium Table
