@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use M-SCAN, please cite this software and the associated manuscript."
-title: "M-SCAN: Multi-scale Omics-constrained Stoichiometric Analysis for Integrated Cancer Metabolism"
+title: ""M-SCAN: Multi-Scale Constrained Analysis of Metabolic Networks for Genome-Scale Flux Inference in Pan-Cancer Cohorts"
 version: "1.0.0"
 type: software
 authors:
