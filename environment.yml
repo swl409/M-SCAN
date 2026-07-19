@@ -10,5 +10,5 @@ dependencies:
   - scipy
   - openpyxl
   - cobra
-  - gurobi=13.0.2
+  - gurobi=13.0.0
   - swiglpk
