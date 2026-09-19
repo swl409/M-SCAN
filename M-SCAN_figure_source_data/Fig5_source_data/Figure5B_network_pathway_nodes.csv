@@ -1,0 +1,11 @@
+network,pathway_node,active_cancer_groups,active_group_fraction,cancer_groups
+Region-dependent network,Glycolysis,6,0.75,"COAD,LUAD,LUSC,OV,PAAD,STAD"
+Region-dependent network,Sphingolipid,7,0.875,"BLCA,LUAD,LUSC,OV,PAAD,STAD,TGCT"
+Region-dependent network,PPP,8,1.0,"BLCA,COAD,LUAD,LUSC,OV,PAAD,STAD,TGCT"
+Region-dependent network,FA elongation,8,1.0,"BLCA,COAD,LUAD,LUSC,OV,PAAD,STAD,TGCT"
+Region-dependent network,Fatty acid biosynthesis,8,1.0,"BLCA,COAD,LUAD,LUSC,OV,PAAD,STAD,TGCT"
+Tissue-dependent network,Glycolysis,4,0.6666666666666666,"ACC,KIRC,KIRP,PRAD"
+Tissue-dependent network,Sphingolipid,1,0.1666666666666666,LIHC
+Tissue-dependent network,PPP,3,0.5,"ACC,KIRC,THCA"
+Tissue-dependent network,FA elongation,1,0.1666666666666666,LIHC
+Tissue-dependent network,Fatty acid biosynthesis,1,0.1666666666666666,LIHC

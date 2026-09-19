@@ -1,0 +1,15 @@
+cancer_group,active_regional_reactions,regional_flux_difference,mean_abs_delta_signedlog,median_abs_delta_signedlog,mean_delta_signedlog,group,display_group,metric_definition
+STAD,21,2.04933047671332,0.0975871655577771,0.0725256147605514,0.0722836661854114,Region-dependent,High-regional-dependent,sum(abs(mean tumour-normal signed-log flux shift)) across active regional reactions
+TGCT,22,1.5466813966663004,0.0703036998484682,0.0041193921163826,0.0358728430471698,Region-dependent,High-regional-dependent,sum(abs(mean tumour-normal signed-log flux shift)) across active regional reactions
+LUSC,26,1.4528649219779106,0.0558794200760734,0.0069326602781761,0.019768584436635,Region-dependent,High-regional-dependent,sum(abs(mean tumour-normal signed-log flux shift)) across active regional reactions
+OV,25,1.4045778382672447,0.0561831135306897,0.0044215752301113,0.0029103590957846,Region-dependent,High-regional-dependent,sum(abs(mean tumour-normal signed-log flux shift)) across active regional reactions
+COAD,17,1.2865796429414285,0.0756811554671428,0.0002967121871282,0.0498776278866937,Region-dependent,High-regional-dependent,sum(abs(mean tumour-normal signed-log flux shift)) across active regional reactions
+BLCA,19,1.2786952453686975,0.0672997497562472,0.0025055057989417,0.0225019797175794,Region-dependent,High-regional-dependent,sum(abs(mean tumour-normal signed-log flux shift)) across active regional reactions
+ACC,7,1.105753063983788,0.1579647234262554,0.1905850738899071,0.0397097368626289,Tissue-dependent,Low-regional-dependent,sum(abs(mean tumour-normal signed-log flux shift)) across active regional reactions
+PAAD,23,1.0215393484817925,0.044414754281817,0.0107339305585249,0.0417200758018152,Region-dependent,High-regional-dependent,sum(abs(mean tumour-normal signed-log flux shift)) across active regional reactions
+PRAD,5,0.9233716850286764,0.1846743370057352,0.1700167513765249,0.0435314753495563,Tissue-dependent,Low-regional-dependent,sum(abs(mean tumour-normal signed-log flux shift)) across active regional reactions
+LUAD,25,0.8381832132440042,0.0335273285297601,0.0026392038159717,0.0172947631883609,Region-dependent,High-regional-dependent,sum(abs(mean tumour-normal signed-log flux shift)) across active regional reactions
+KIRP,5,0.518587714655879,0.1037175429311758,0.1104811582795273,-0.0197785184247409,Tissue-dependent,Low-regional-dependent,sum(abs(mean tumour-normal signed-log flux shift)) across active regional reactions
+THCA,5,0.3784578108074031,0.0756915621614806,0.0338964499407521,0.0100210745974641,Tissue-dependent,Low-regional-dependent,sum(abs(mean tumour-normal signed-log flux shift)) across active regional reactions
+LIHC,12,0.2807679279868686,0.023397327332239,0.0018076848555372,0.023397327332239,Tissue-dependent,Low-regional-dependent,sum(abs(mean tumour-normal signed-log flux shift)) across active regional reactions
+KIRC,7,0.1645709234785916,0.023510131925513,0.0020129710942349,-0.0009607951584745,Tissue-dependent,Low-regional-dependent,sum(abs(mean tumour-normal signed-log flux shift)) across active regional reactions

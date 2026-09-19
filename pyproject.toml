@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mscan-pipeline"
+version = "1.0.0"
+description = "M-SCAN RNA-to-pFBA workflow for Human-GEM cancer metabolism models"
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [
+  {name = "Songwon Lim"}
+]
+dependencies = [
+  "pandas>=2.0",
+  "numpy>=1.24",
+  "scipy>=1.10",
+  "openpyxl>=3.1",
+  "cobra>=0.29"
+]
+
+[project.scripts]
+mscan = "mscan.cli:main"
+
+[tool.setuptools]
+packages = ["mscan"]

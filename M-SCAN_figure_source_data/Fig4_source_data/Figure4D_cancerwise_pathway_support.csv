@@ -1,0 +1,141 @@
+subsystem,cancer_group,combined_top20_support
+Glycolysis / Gluconeogenesis,PAAD,200.0
+Fatty acid biosynthesis (even-chain),PAAD,180.0
+"Valine, leucine, and isoleucine metabolism",PAAD,0.0
+Glutathione metabolism,PAAD,0.0
+Carnitine shuttle (cytosolic),PAAD,137.0
+Pentose phosphate pathway,PAAD,127.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,PAAD,117.0
+Heparan sulfate degradation,PAAD,0.0
+Cholesterol biosynthesis 1 (Bloch pathway),PAAD,0.0
+Oxidative phosphorylation,PAAD,109.0
+Glycolysis / Gluconeogenesis,LUSC,200.0
+Fatty acid biosynthesis (even-chain),LUSC,180.0
+"Valine, leucine, and isoleucine metabolism",LUSC,0.0
+Glutathione metabolism,LUSC,0.0
+Carnitine shuttle (cytosolic),LUSC,137.0
+Pentose phosphate pathway,LUSC,127.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,LUSC,117.0
+Heparan sulfate degradation,LUSC,117.0
+Cholesterol biosynthesis 1 (Bloch pathway),LUSC,0.0
+Oxidative phosphorylation,LUSC,109.0
+Glycolysis / Gluconeogenesis,TGCT,200.0
+Fatty acid biosynthesis (even-chain),TGCT,180.0
+"Valine, leucine, and isoleucine metabolism",TGCT,0.0
+Glutathione metabolism,TGCT,0.0
+Carnitine shuttle (cytosolic),TGCT,137.0
+Pentose phosphate pathway,TGCT,127.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,TGCT,117.0
+Heparan sulfate degradation,TGCT,0.0
+Cholesterol biosynthesis 1 (Bloch pathway),TGCT,0.0
+Oxidative phosphorylation,TGCT,0.0
+Glycolysis / Gluconeogenesis,LUAD,200.0
+Fatty acid biosynthesis (even-chain),LUAD,180.0
+"Valine, leucine, and isoleucine metabolism",LUAD,0.0
+Glutathione metabolism,LUAD,0.0
+Carnitine shuttle (cytosolic),LUAD,137.0
+Pentose phosphate pathway,LUAD,127.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,LUAD,117.0
+Heparan sulfate degradation,LUAD,117.0
+Cholesterol biosynthesis 1 (Bloch pathway),LUAD,0.0
+Oxidative phosphorylation,LUAD,109.0
+Glycolysis / Gluconeogenesis,OV,200.0
+Fatty acid biosynthesis (even-chain),OV,180.0
+"Valine, leucine, and isoleucine metabolism",OV,0.0
+Glutathione metabolism,OV,147.0
+Carnitine shuttle (cytosolic),OV,137.0
+Pentose phosphate pathway,OV,127.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,OV,117.0
+Heparan sulfate degradation,OV,117.0
+Cholesterol biosynthesis 1 (Bloch pathway),OV,0.0
+Oxidative phosphorylation,OV,109.0
+Glycolysis / Gluconeogenesis,BLCA,200.0
+Fatty acid biosynthesis (even-chain),BLCA,180.0
+"Valine, leucine, and isoleucine metabolism",BLCA,0.0
+Glutathione metabolism,BLCA,0.0
+Carnitine shuttle (cytosolic),BLCA,137.0
+Pentose phosphate pathway,BLCA,127.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,BLCA,117.0
+Heparan sulfate degradation,BLCA,0.0
+Cholesterol biosynthesis 1 (Bloch pathway),BLCA,0.0
+Oxidative phosphorylation,BLCA,109.0
+Glycolysis / Gluconeogenesis,STAD,200.0
+Fatty acid biosynthesis (even-chain),STAD,180.0
+"Valine, leucine, and isoleucine metabolism",STAD,0.0
+Glutathione metabolism,STAD,0.0
+Carnitine shuttle (cytosolic),STAD,0.0
+Pentose phosphate pathway,STAD,127.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,STAD,117.0
+Heparan sulfate degradation,STAD,0.0
+Cholesterol biosynthesis 1 (Bloch pathway),STAD,0.0
+Oxidative phosphorylation,STAD,109.0
+Glycolysis / Gluconeogenesis,COAD,200.0
+Fatty acid biosynthesis (even-chain),COAD,180.0
+"Valine, leucine, and isoleucine metabolism",COAD,0.0
+Glutathione metabolism,COAD,0.0
+Carnitine shuttle (cytosolic),COAD,0.0
+Pentose phosphate pathway,COAD,127.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,COAD,117.0
+Heparan sulfate degradation,COAD,0.0
+Cholesterol biosynthesis 1 (Bloch pathway),COAD,0.0
+Oxidative phosphorylation,COAD,0.0
+Glycolysis / Gluconeogenesis,LIHC,200.0
+Fatty acid biosynthesis (even-chain),LIHC,180.0
+"Valine, leucine, and isoleucine metabolism",LIHC,0.0
+Glutathione metabolism,LIHC,0.0
+Carnitine shuttle (cytosolic),LIHC,137.0
+Pentose phosphate pathway,LIHC,0.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,LIHC,117.0
+Heparan sulfate degradation,LIHC,0.0
+Cholesterol biosynthesis 1 (Bloch pathway),LIHC,0.0
+Oxidative phosphorylation,LIHC,109.0
+Glycolysis / Gluconeogenesis,ACC,200.0
+Fatty acid biosynthesis (even-chain),ACC,0.0
+"Valine, leucine, and isoleucine metabolism",ACC,0.0
+Glutathione metabolism,ACC,0.0
+Carnitine shuttle (cytosolic),ACC,0.0
+Pentose phosphate pathway,ACC,127.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,ACC,0.0
+Heparan sulfate degradation,ACC,0.0
+Cholesterol biosynthesis 1 (Bloch pathway),ACC,0.0
+Oxidative phosphorylation,ACC,109.0
+Glycolysis / Gluconeogenesis,PRAD,200.0
+Fatty acid biosynthesis (even-chain),PRAD,0.0
+"Valine, leucine, and isoleucine metabolism",PRAD,0.0
+Glutathione metabolism,PRAD,0.0
+Carnitine shuttle (cytosolic),PRAD,0.0
+Pentose phosphate pathway,PRAD,0.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,PRAD,117.0
+Heparan sulfate degradation,PRAD,0.0
+Cholesterol biosynthesis 1 (Bloch pathway),PRAD,0.0
+Oxidative phosphorylation,PRAD,0.0
+Glycolysis / Gluconeogenesis,KIRC,200.0
+Fatty acid biosynthesis (even-chain),KIRC,180.0
+"Valine, leucine, and isoleucine metabolism",KIRC,171.0
+Glutathione metabolism,KIRC,0.0
+Carnitine shuttle (cytosolic),KIRC,137.0
+Pentose phosphate pathway,KIRC,127.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,KIRC,0.0
+Heparan sulfate degradation,KIRC,0.0
+Cholesterol biosynthesis 1 (Bloch pathway),KIRC,0.0
+Oxidative phosphorylation,KIRC,109.0
+Glycolysis / Gluconeogenesis,KIRP,200.0
+Fatty acid biosynthesis (even-chain),KIRP,0.0
+"Valine, leucine, and isoleucine metabolism",KIRP,171.0
+Glutathione metabolism,KIRP,0.0
+Carnitine shuttle (cytosolic),KIRP,0.0
+Pentose phosphate pathway,KIRP,0.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,KIRP,0.0
+Heparan sulfate degradation,KIRP,0.0
+Cholesterol biosynthesis 1 (Bloch pathway),KIRP,0.0
+Oxidative phosphorylation,KIRP,0.0
+Glycolysis / Gluconeogenesis,THCA,200.0
+Fatty acid biosynthesis (even-chain),THCA,0.0
+"Valine, leucine, and isoleucine metabolism",THCA,171.0
+Glutathione metabolism,THCA,0.0
+Carnitine shuttle (cytosolic),THCA,0.0
+Pentose phosphate pathway,THCA,127.0
+Tricarboxylic acid cycle and glyoxylate/dicarboxylate metabolism,THCA,117.0
+Heparan sulfate degradation,THCA,0.0
+Cholesterol biosynthesis 1 (Bloch pathway),THCA,0.0
+Oxidative phosphorylation,THCA,0.0
