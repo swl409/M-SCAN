@@ -33,6 +33,8 @@ conda env update -n M-SCAN -f environment.yml
 
 ## What the Demo Runs
 
+![M-SCAN workflow](mscan_workflow.png)
+
 ```text
 RNA expression
   -> protein-coding and Human-GEM gene filtering
