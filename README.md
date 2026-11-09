@@ -60,6 +60,28 @@ Default outputs:
 - `outputs/tutorial_vmax.csv`
 - `outputs/tutorial_pfba_results.csv`
 
+| Demo output | Value |
+| --- | ---: |
+| Cell lines | 3 |
+| Input gene columns | 21,670 |
+| Retained Human-GEM genes | 2,855 |
+| Mutation-attenuated gene/sample pairs | 26 |
+| Reaction-direction capacity rows | 18,904 |
+
+| Cell line | Solver status | Biomass objective flux (model scale) | Vmax reference check | pFBA reference check |
+| --- | --- | ---: | --- | --- |
+| HOP92 | optimal | 0.463097 | Passed | Passed |
+| HS578T | optimal | 0.409805 | Passed | Passed |
+| MDAMB231 | optimal | 0.453288 | Passed | Passed |
+
+| Exchange reaction | Metabolite | HOP92 predicted flux | HS578T predicted flux | MDAMB231 predicted flux |
+| --- | --- | ---: | ---: | ---: |
+| MAR09034 | Glucose | -5.200183 | -6.655132 | -5.655833 |
+| MAR09063 | Glutamine | -0.140744 | -0.272129 | -0.149281 |
+| MAR09135 | Lactate | 9.945553 | 10.843888 | 10.117626 |
+
+![Example predicted exchange fluxes compared with stored computational reference outputs](demo_exchange_summary.png)
+
 ## Apply M-SCAN to Another Dataset
 
 Copy the demo config and edit the paths:
